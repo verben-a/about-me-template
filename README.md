@@ -1,0 +1,1 @@
+THinkful bootcamp template exercise (basic HTML, CSS).
